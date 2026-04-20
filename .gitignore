@@ -1,0 +1,10 @@
+*.csv
+*.pt
+*.bin
+saved_model/
+artifacts/
+__pycache__/
+*.pyc
+*.zip
+*.pdf
+.ipynb_checkpoints/
